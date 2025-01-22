@@ -2,7 +2,7 @@
 
 Calculate word counts in a text file!
 
-- Hi 
+[![codecov](https://codecov.io/github/awlh18/pycounts_aw/graph/badge.svg?token=9J2GCRHPJS)](https://codecov.io/github/awlh18/pycounts_aw)
 
 ## Installation
 
